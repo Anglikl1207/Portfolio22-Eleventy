@@ -19,14 +19,14 @@ tags: navItem
       <h3>Projects</h3>
     <div class="project1">
         <div class="imageContainer">
-        <img src="images/EniBebic.png" alt="A chef making a dish">
+        <img src="/images/EniBebic.png" alt="A chef making a dish">
        </div>
         <h4>Eni Bebic | Creating the website</h4>
         <button type="button">VIEW CASE STUDY</button>
        </div>
       <div class="project2">
         <div class="imageContainer">
-        <img src="images/Craigslist.png" alt="A beautfiul building">
+        <img src="/images/Craigslist.png" alt="A beautfiul building">
       </div>
         <h4>Racemappr | Onbording Process</h4>
         <button type="button">VIEW CASE STUDY</button>
@@ -34,14 +34,14 @@ tags: navItem
       
 <div class="project3">
         <div class="imageContainer">
-        <img src="images/Racemppr.png" alt="A woman running">
+        <img src="/images/Racemppr.png" alt="A woman running">
       </div>
         <h4>Craigslist | Redesign</h4>
         <button type="button">VIEW CASE STUDY</button>
 </div>
       <div class="project4">
         <div class="imageContainer">
-        <img src="images/Exie.png" alt="two fashion models looking at the camera">
+        <img src="/images/Exie.png" alt="two fashion models looking at the camera">
       </div>
         <h4>Exie | Brand & web design</h4>
         <button type="button">VIEW CASE STUDY</button>
